@@ -162,4 +162,8 @@ footer {
     max-width: 23rem;
     padding-left: 2rem;
   }
+
+  form {
+    max-width: 37rem;
+  }
 }
